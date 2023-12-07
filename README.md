@@ -134,6 +134,8 @@ You will find multiple python modules in here:
 The application is a simple Kanban board which contains 4 Models and uses the
 default user model of django.
 
+![ER-Diagram](docs/ER_Diagram.png)
+
 The models are:
 
 ### `Swimlane`: The swimlane definition
