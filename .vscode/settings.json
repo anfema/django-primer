@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/._*": true,
+        "**/__pycache__/": true,
+        "db.sqlite3": true
+    }
+}
